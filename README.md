@@ -1,4 +1,4 @@
-# Project Name: My Portfolio
+# Project Name: My First Data Analytics Repository
 
 ----
 # Project Objective: Problem Statement
